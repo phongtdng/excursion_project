@@ -1,5 +1,6 @@
 * {
     background-color: black;
+    font-family: sans-serif;
 }
 
 .flex {
@@ -11,4 +12,8 @@
 
 h1, h2 {
     color: white;
+}
+
+.app h2 {
+    font-size: 28px;
 }
