@@ -1,6 +1,7 @@
 * {
     background-color: black;
     font-family: sans-serif;
+    margin: 10px 0;
 }
 
 .flex {
@@ -16,4 +17,8 @@ h1, h2 {
 
 .app h2 {
     font-size: 28px;
+}
+
+a {
+    color: aquamarine;
 }
